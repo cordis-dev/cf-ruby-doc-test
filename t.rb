@@ -1,5 +1,5 @@
 # bad
-def foo 
+def foo  
   return if need_return?
   bar
 end

@@ -1,4 +1,4 @@
-# bad 
+# bad  
 def foo  
   return if need_return?
   bar
